@@ -1,1 +1,3 @@
-# sample10
+#sample10
+This is my first ops lab
+created a repo
