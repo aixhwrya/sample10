@@ -1,4 +1,4 @@
 
-This is my first ops lab
+OPS LAB
 <br>
 created a repo
